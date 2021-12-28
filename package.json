@@ -1,0 +1,35 @@
+{
+  "name": "tailadmin-inertia-components",
+  "version": "0.0.1",
+  "description": "Components for Inertia based projects",
+  "main": "src/index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "vue" : "^2.6.14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinan-aydogan/tailadmin-inertia-components.git"
+  },
+  "keywords": [
+    "laravel",
+    "vuejs",
+    "tailwindcss",
+    "tailadmin",
+    "component",
+    "ui",
+    "component",
+    "ui",
+    "kit"
+  ],
+  "author": "Sinan Aydoğan <contact@sinanaydogan.com.tr> (https://sinanaydogan.com.tr)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinan-aydogan/tailadmin-inertia-components/issues"
+  },
+  "homepage": "https://github.com/sinan-aydogan/tailadmin-inertia-components#readme"
+}
