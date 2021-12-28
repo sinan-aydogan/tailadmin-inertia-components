@@ -3,12 +3,11 @@
   "version": "0.0.1",
   "description": "Components for Inertia based projects",
   "main": "src/index.js",
-  "dependencies": {
-  },
-  "devDependencies": {
-    "vue" : "^2.6.14"
+  "peerDependencies": {
+    "vue": "^2.6.14"
   },
   "scripts": {
+    "build": "rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -31,5 +30,10 @@
   "bugs": {
     "url": "https://github.com/sinan-aydogan/tailadmin-inertia-components/issues"
   },
-  "homepage": "https://github.com/sinan-aydogan/tailadmin-inertia-components#readme"
+  "homepage": "https://github.com/sinan-aydogan/tailadmin-inertia-components#readme",
+  "devDependencies": {
+    "rollup": "^2.62.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-vue": "^6.0.0"
+  }
 }
