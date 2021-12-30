@@ -1,0 +1,36 @@
+.icon-size-1 {
+    @apply w-4 h-4
+}
+.icon-size-2 {
+    @apply w-5 h-5
+}
+.icon-size-3 {
+    @apply w-6 h-6
+}
+.icon-size-4 {
+    @apply w-8 h-8
+}
+.icon-size-5 {
+    @apply w-10 h-10
+}
+.icon-size-6 {
+    @apply w-12 h-12
+}
+.icon-size-7 {
+    @apply w-14 h-14
+}
+.icon-size-8 {
+    @apply w-16 h-16
+}
+.icon-size-9 {
+    @apply w-20 h-20
+}
+.icon-size-10 {
+    @apply w-24 h-24
+}
+.icon-size-11 {
+    @apply w-28 h-28
+}
+.icon-size-12 {
+    @apply w-32 h-32
+}
